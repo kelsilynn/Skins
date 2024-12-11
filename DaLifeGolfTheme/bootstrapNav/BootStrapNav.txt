@@ -1,0 +1,17 @@
+<ul class="navbar-nav ml-auto">
+[*>NODE]
+</ul>
+[>NODE]
+    <li class="nav-item [?NODE]dropdown [/?][?SELECTED]active[/?] px-lg-4">
+    [?ENABLED]
+        <a href="[=URL]"  class="nav-link text-expanded [?NODE]dropdown-toggle[/?]" [?NODE]data-toggle="dropdown" aria-haspopup="true" aria-expanded="false"[/?]>[=TEXT] [?NODE]<b class="caret"></b>[/?]</a>
+    [?ELSE]
+        <a href="#" id="dropdownMenuLink" class="nav-link text-expanded [?NODE]dropdown-toggle[/?]" [?NODE]data-toggle="dropdown" aria-haspopup="true" aria-expanded="false"[/?]>[=TEXT] [?NODE]<b class="caret"></b>[/?]</a>
+    [/?]
+    [?NODE]
+        <ul class="dropdown-menu dropdown-menu-right"  aria-labelledby="dropdownMenuLink" >
+        [*>NODE]
+        </ul>
+    [/?]
+    </li>
+[/>]

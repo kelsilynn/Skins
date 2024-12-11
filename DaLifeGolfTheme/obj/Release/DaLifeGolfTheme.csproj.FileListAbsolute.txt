@@ -1,0 +1,7 @@
+C:\Websites\dnndev.me\bin\DaLifeGolfTheme.dll
+C:\Websites\dnndev.me\bin\DaLifeGolfTheme.pdb
+C:\Websites\dnndev.me\Portals\_default\Skins\DaLifeGolfTheme\obj\Release\DaLifeGolfTheme.csproj.AssemblyReference.cache
+C:\Websites\dnndev.me\Portals\_default\Skins\DaLifeGolfTheme\obj\Release\DaLifeGolfTheme.csproj.CoreCompileInputs.cache
+C:\Websites\dnndev.me\Portals\_default\Skins\DaLifeGolfTheme\obj\Release\DaLifeGo.3D5A9117.Up2Date
+C:\Websites\dnndev.me\Portals\_default\Skins\DaLifeGolfTheme\obj\Release\DaLifeGolfTheme.dll
+C:\Websites\dnndev.me\Portals\_default\Skins\DaLifeGolfTheme\obj\Release\DaLifeGolfTheme.pdb
