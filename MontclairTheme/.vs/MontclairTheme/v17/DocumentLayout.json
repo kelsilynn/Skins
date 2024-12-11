@@ -1,0 +1,94 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\kelsi\\OneDrive\\websites.localtest.me\\Portals\\_default\\Skins\\MontclairTheme\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7D61A32C-0F21-453F-A981-BD8E5A3A5304}|MontclairTheme.csproj|c:\\users\\kelsi\\onedrive\\websites.localtest.me\\portals\\_default\\skins\\montclairtheme\\skin.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{7D61A32C-0F21-453F-A981-BD8E5A3A5304}|MontclairTheme.csproj|solutionrelative:skin.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D61A32C-0F21-453F-A981-BD8E5A3A5304}|MontclairTheme.csproj|C:\\Users\\kelsi\\OneDrive\\websites.localtest.me\\Portals\\_default\\Skins\\MontclairTheme\\home.ascx||{F390D63C-F7D8-4E74-AA04-57C1ECF53D4D}",
+      "RelativeMoniker": "D:0:0:{7D61A32C-0F21-453F-A981-BD8E5A3A5304}|MontclairTheme.csproj|solutionrelative:home.ascx||{F390D63C-F7D8-4E74-AA04-57C1ECF53D4D}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D61A32C-0F21-453F-A981-BD8E5A3A5304}|MontclairTheme.csproj|C:\\Users\\kelsi\\OneDrive\\websites.localtest.me\\Portals\\_default\\Skins\\MontclairTheme\\bootstrapnav\\bootstrapnav.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{7D61A32C-0F21-453F-A981-BD8E5A3A5304}|MontclairTheme.csproj|solutionrelative:bootstrapnav\\bootstrapnav.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D61A32C-0F21-453F-A981-BD8E5A3A5304}|MontclairTheme.csproj|C:\\Users\\kelsi\\OneDrive\\websites.localtest.me\\Portals\\_default\\Skins\\MontclairTheme\\js\\custom.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{7D61A32C-0F21-453F-A981-BD8E5A3A5304}|MontclairTheme.csproj|solutionrelative:js\\custom.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BootStrapNav.txt",
+              "DocumentMoniker": "C:\\Users\\kelsi\\OneDrive\\websites.localtest.me\\Portals\\_default\\Skins\\MontclairTheme\\bootstrapNav\\BootStrapNav.txt",
+              "RelativeDocumentMoniker": "bootstrapNav\\BootStrapNav.txt",
+              "ToolTip": "C:\\Users\\kelsi\\OneDrive\\websites.localtest.me\\Portals\\_default\\Skins\\MontclairTheme\\bootstrapNav\\BootStrapNav.txt",
+              "RelativeToolTip": "bootstrapNav\\BootStrapNav.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-11-18T20:54:21.433Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "custom.js",
+              "DocumentMoniker": "C:\\Users\\kelsi\\OneDrive\\websites.localtest.me\\Portals\\_default\\Skins\\MontclairTheme\\js\\custom.js",
+              "RelativeDocumentMoniker": "js\\custom.js",
+              "ToolTip": "C:\\Users\\kelsi\\OneDrive\\websites.localtest.me\\Portals\\_default\\Skins\\MontclairTheme\\js\\custom.js",
+              "RelativeToolTip": "js\\custom.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAgAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2023-08-23T17:48:41.704Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "skin.css",
+              "DocumentMoniker": "C:\\Users\\kelsi\\OneDrive\\websites.localtest.me\\Portals\\_default\\Skins\\MontclairTheme\\skin.css",
+              "RelativeDocumentMoniker": "skin.css",
+              "ToolTip": "C:\\Users\\kelsi\\OneDrive\\websites.localtest.me\\Portals\\_default\\Skins\\MontclairTheme\\skin.css",
+              "RelativeToolTip": "skin.css",
+              "ViewState": "AQIAAOQAAAAAAAAAAAAkwPIAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2023-08-22T22:48:02.28Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Home.ascx",
+              "DocumentMoniker": "C:\\Users\\kelsi\\OneDrive\\websites.localtest.me\\Portals\\_default\\Skins\\MontclairTheme\\Home.ascx",
+              "RelativeDocumentMoniker": "Home.ascx",
+              "ToolTip": "C:\\Users\\kelsi\\OneDrive\\websites.localtest.me\\Portals\\_default\\Skins\\MontclairTheme\\Home.ascx",
+              "RelativeToolTip": "Home.ascx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003302|",
+              "WhenOpened": "2023-08-22T21:13:28.881Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

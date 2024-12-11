@@ -1,0 +1,7 @@
+C:\Users\kelsi\OneDrive\websites.localtest.me\bin\MontclairTheme.dll
+C:\Users\kelsi\OneDrive\websites.localtest.me\bin\MontclairTheme.pdb
+C:\Users\kelsi\OneDrive\websites.localtest.me\Portals\_default\Skins\MontclairTheme\obj\Debug\MontclairTheme.csproj.AssemblyReference.cache
+C:\Users\kelsi\OneDrive\websites.localtest.me\Portals\_default\Skins\MontclairTheme\obj\Debug\MontclairTheme.csproj.CoreCompileInputs.cache
+C:\Users\kelsi\OneDrive\websites.localtest.me\Portals\_default\Skins\MontclairTheme\obj\Debug\MontclairTheme.csproj.CopyComplete
+C:\Users\kelsi\OneDrive\websites.localtest.me\Portals\_default\Skins\MontclairTheme\obj\Debug\MontclairTheme.dll
+C:\Users\kelsi\OneDrive\websites.localtest.me\Portals\_default\Skins\MontclairTheme\obj\Debug\MontclairTheme.pdb
